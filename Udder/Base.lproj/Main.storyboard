@@ -32,6 +32,10 @@
                                 <color key="textColor" red="0.92549019610000005" green="0.72941176470000002" blue="0.062745098040000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk-png-hd--1280" translatesAutoresizingMaskIntoConstraints="NO" id="P1q-yk-3cq">
+                                <rect key="frame" x="-11" y="429" width="481" height="464"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -42,4 +46,7 @@
             <point key="canvasLocation" x="137.68115942028987" y="129.61956521739131"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="milk-png-hd--1280" width="426.66665649414062" height="240"/>
+    </resources>
 </document>
