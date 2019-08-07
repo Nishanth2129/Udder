@@ -33,7 +33,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk-png-hd--1280" translatesAutoresizingMaskIntoConstraints="NO" id="P1q-yk-3cq">
-                                <rect key="frame" x="-11" y="429" width="481" height="464"/>
+                                <rect key="frame" x="-13" y="387" width="481" height="464"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
